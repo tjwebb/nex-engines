@@ -31,7 +31,6 @@
   "bundledDependencies": [
     "colors",
     "lodash",
-    "npmlog",
-    "n-api"
+    "npmlog"
   ]
 }
