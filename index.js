@@ -22,7 +22,7 @@ handler.do = function (pkg, resolver) {
   }
   n(node);
   process.on('exit', function () {
-    n(node);
+    n(process.version);
   });
 };
 
