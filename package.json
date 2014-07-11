@@ -20,5 +20,18 @@
   "bugs": {
     "url": "https://github.com/tjwebb/nex-engines/issues"
   },
-  "homepage": "https://github.com/tjwebb/nex-engines"
+  "homepage": "https://github.com/tjwebb/nex-engines",
+  "dependencies": {
+    "colors": "^0.6.2",
+    "lodash": "^2.4.1",
+    "n-api": "^1.2.26",
+    "nex-api": "^2.0.2",
+    "npmlog": "^0.1.1"
+  },
+  "bundledDependencies": [
+    "colors",
+    "lodash",
+    "npmlog",
+    "n-api"
+  ]
 }

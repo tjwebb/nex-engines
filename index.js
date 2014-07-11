@@ -3,7 +3,6 @@
 var _ = require('lodash');
 var nex = require('nex-api');
 var n = require('n-api');
-var proc = require('child_process');
 var log = require('npmlog');
 var colors = require('colors');
 
