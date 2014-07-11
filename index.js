@@ -21,9 +21,6 @@ handler.do = function (pkg, resolver) {
     node = process.version;
   }
   n(node);
-  process.on('exit', function () {
-    n(process.version);
-  });
 };
 
 /**
