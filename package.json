@@ -1,6 +1,6 @@
 {
   "name": "nex-engines",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "nex-engines",
   "main": "index.js",
   "scripts": {
