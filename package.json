@@ -26,6 +26,7 @@
     "lodash": "^2.4.1",
     "n-api": "^1.2.26",
     "nex-api": "^2.0.2",
+    "node-latest-version": "^1.0.10",
     "npmlog": "^0.1.1"
   },
   "bundledDependencies": [
